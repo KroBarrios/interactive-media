@@ -1,0 +1,1 @@
+Magical file that can be used for documentation
